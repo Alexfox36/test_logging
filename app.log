@@ -1,0 +1,9 @@
+[2025-04-12 23:01:26,795.795]  main: 24 DEBUG   - get_admin
+[2025-04-12 23:01:26,795.795]  main: 32 INFO    - get_auth
+[2025-04-12 23:01:26,795.795]  main: 40 WARNING - get_orders
+[2025-04-12 23:01:27,008.008]  main: 24 DEBUG   - get_admin
+[2025-04-12 23:01:27,008.008]  main: 32 INFO    - get_auth
+[2025-04-12 23:01:27,008.008]  main: 40 WARNING - get_orders
+[2025-04-12 23:01:27,026.026]  main: 24 DEBUG   - get_admin
+[2025-04-12 23:01:27,026.026]  main: 32 INFO    - get_auth
+[2025-04-12 23:01:27,026.026]  main: 40 WARNING - get_orders
